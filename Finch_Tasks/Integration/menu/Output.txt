@@ -1,0 +1,5 @@
+The line distance is: 40cm
+distance from start/End of zigzag line: 28cm 
+Speed: 114
+The time to start is: 19:37:07.492
+The End time is: 19:37:18.407
